@@ -68,5 +68,5 @@ Federal University of Rondonópolis (UFR)
 Feel free to explore my repositories, fork my projects, or reach out for collaboration opportunities!  
 
 ---
-
+[Versão em Português](README.pt.md)
 *Last Updated: March 24, 2025*
