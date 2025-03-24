@@ -31,6 +31,17 @@ A high-performance arbitrage bot built with Python and Rust, integrating real-ti
 - **Live Results**: [Bybit Trade Center](https://www.bybit.com/copyTrade/trade-center/detail?leaderMark=ON4MQBiq027SR+ZNzGZ58Q==)  
 - **Skills Applied**: Real-time data analysis, algorithmic optimization  
 
+### [Energy Consumption Forecasting with XGBoost](https://github.com/Vinikra/energy-consumption-forecast)  
+*March 2025*  
+A project focused on predicting energy consumption using machine learning, specifically XGBoost, applied to hourly energy data.  
+- **Tech**: Python, pandas, NumPy, XGBoost, Matplotlib, statsmodels  
+- **Highlights**:  
+  - Performed exploratory data analysis (EDA) and seasonal decomposition  
+  - Applied XGBoost for time series forecasting  
+  - Cleaned and pre-processed data by removing outliers and filling missing values  
+  - Evaluated model performance with RMSE, MAE, and MAPE  
+- **Skills Applied**: Time series forecasting, data cleaning, model evaluation, feature engineering  
+
 ### Machine Learning Models  
 *GitHub Repository: [github.com/vinikra](https://github.com/vinikra)*  
 A collection of predictive models built to explore ML techniques.  
